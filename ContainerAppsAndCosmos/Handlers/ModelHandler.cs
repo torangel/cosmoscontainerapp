@@ -20,13 +20,13 @@ public class ModelHandler : IHandleMessages<Model>
     {
         try
         {
-            Console.WriteLine("Start bus3 upsert");
+            Console.WriteLine($"Start bus {Const.TAG} upsert");
             var dbName = Environment.GetEnvironmentVariable("DATABASE");
             var containerName = Environment.GetEnvironmentVariable("CONTAINER");
             var container = _client.GetContainer(dbName, containerName);
             var cancellationToken = _messageContext.IncomingStepContext.Load<CancellationToken>();
             await container.UpsertItemAsync(JObject.Parse(message.Data), cancellationToken: cancellationToken);
-            Console.WriteLine("Finished bus3 upsert");
+            Console.WriteLine($"Finished bus {Const.TAG} upsert");
 
         }
         catch (Exception ex)

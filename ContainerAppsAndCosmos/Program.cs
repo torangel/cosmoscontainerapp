@@ -15,12 +15,16 @@ Console.WriteLine("Started");
 var cosmosCn = Environment.GetEnvironmentVariable("COSMOS");
 var dbName = Environment.GetEnvironmentVariable("DATABASE");
 var containerName = Environment.GetEnvironmentVariable("CONTAINER");
-var useLessData = !String.IsNullOrEmpty(Environment.GetEnvironmentVariable("LESSDATA"));
-Console.WriteLine($"LessData: {useLessData}");
+var less = Environment.GetEnvironmentVariable("LESSDATA");
+var useLessData = !String.IsNullOrEmpty(less) && less.ToLower().Equals("true");
+var bus = Environment.GetEnvironmentVariable("BUS");
+var useBus = !String.IsNullOrEmpty(bus) && bus.ToLower().Equals("true");
+
+
 var cosmosClient = new CosmosClient(cosmosCn);
 
 
-var builder=Host.CreateApplicationBuilder(args);
+var builder = Host.CreateApplicationBuilder(args);
 builder.Services.AddSingleton(cosmosClient);
 builder.Services.AddRebus(configure =>
 {
@@ -34,18 +38,30 @@ builder.Services.AutoRegisterHandlersFromAssemblyOf<Model>();
 
 var app = builder.Build();
 
-var data = useLessData? File.ReadAllText("lessdata.json"):File.ReadAllText("data.json");
+var data = useLessData ? File.ReadAllText("lessdata.json") : File.ReadAllText("data.json");
 var item = JObject.Parse(data);
 while (true)
 {
-    Console.WriteLine("Start upsert");
-    var container = cosmosClient.GetContainer(dbName, containerName);
+    Console.WriteLine($"LessData: {useLessData}");
+    Console.WriteLine($"UseBus: {useBus}");
   
-    await container.UpsertItemAsync(item);
-    Console.WriteLine("Finished upsert");
-    using (var scope = app.Services.CreateScope())
-        await scope.ServiceProvider.GetRequiredService<IBus>().SendLocal(new Model(){Data = data} );
-    
+    try
+    {
+        Console.WriteLine($"Start {Const.TAG} upsert");
+        var container = cosmosClient.GetContainer(dbName, containerName);
+        await container.UpsertItemAsync(item);
+        await container.UpsertItemAsync(item);
+        Console.WriteLine($"Finished {Const.TAG} upsert");
+    }
+    catch (Exception e)
+    {
+        Console.WriteLine(e);
+    }
+
+
+    if (useBus)
+        using (var scope = app.Services.CreateScope())
+            await scope.ServiceProvider.GetRequiredService<IBus>().SendLocal(new Model() { Data = data });
+
     await Task.Delay(TimeSpan.FromSeconds(5));
-    
 }
