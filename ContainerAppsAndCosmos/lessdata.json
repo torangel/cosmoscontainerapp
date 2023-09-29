@@ -1,0 +1,49 @@
+{
+  "id": "61",
+  "Votes": [],
+  "Counter": 61,
+  "Registered": "2022-05-30T14:41:38.04",
+  "Changed": "2023-01-24T09:07:00.27",
+  "Description": "sdf",
+  "DescriptionDistrict": "sdf",
+  "NumberOfEnvoys": 3,
+  "NumberOfDeputy1": 4,
+  "NumberOfDeputy2": 0,
+  "Status": 1,
+  "ValidFrom": "2022-05-30T00:00:00",
+  "ValidTo": "2023-12-31T00:00:00",
+  "Voters": [
+    {
+      "ElectionMemberId": 1,
+      "MembershipId": 160,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 2,
+      "MembershipId": 308,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 3,
+      "MembershipId": 321,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 4,
+      "MembershipId": 466,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    }
+    ]
+}

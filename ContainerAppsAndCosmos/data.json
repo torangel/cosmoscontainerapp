@@ -1,0 +1,1195 @@
+{
+  "id": "61",
+  "Votes": [],
+  "Counter": 61,
+  "Registered": "2022-05-30T14:41:38.04",
+  "Changed": "2023-01-24T09:07:00.27",
+  "Description": "sdf",
+  "DescriptionDistrict": "sdf",
+  "NumberOfEnvoys": 3,
+  "NumberOfDeputy1": 4,
+  "NumberOfDeputy2": 0,
+  "Status": 1,
+  "ValidFrom": "2022-05-30T00:00:00",
+  "ValidTo": "2023-12-31T00:00:00",
+  "Voters": [
+    {
+      "ElectionMemberId": 1,
+      "MembershipId": 160,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 2,
+      "MembershipId": 308,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 3,
+      "MembershipId": 321,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 4,
+      "MembershipId": 466,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 5,
+      "MembershipId": 467,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 6,
+      "MembershipId": 569,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 7,
+      "MembershipId": 595,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 8,
+      "MembershipId": 620,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 9,
+      "MembershipId": 622,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 10,
+      "MembershipId": 764,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 11,
+      "MembershipId": 765,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 12,
+      "MembershipId": 766,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 13,
+      "MembershipId": 767,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 14,
+      "MembershipId": 819,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 15,
+      "MembershipId": 821,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 16,
+      "MembershipId": 823,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 17,
+      "MembershipId": 824,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 18,
+      "MembershipId": 951,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 19,
+      "MembershipId": 1018,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 20,
+      "MembershipId": 1055,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 21,
+      "MembershipId": 1060,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 22,
+      "MembershipId": 1080,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 23,
+      "MembershipId": 1217,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 24,
+      "MembershipId": 1222,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 25,
+      "MembershipId": 1223,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 26,
+      "MembershipId": 1224,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 27,
+      "MembershipId": 1225,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 28,
+      "MembershipId": 1226,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 29,
+      "MembershipId": 1227,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 30,
+      "MembershipId": 1228,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 31,
+      "MembershipId": 1230,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 32,
+      "MembershipId": 1261,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 33,
+      "MembershipId": 1275,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 34,
+      "MembershipId": 1288,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 35,
+      "MembershipId": 1289,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 36,
+      "MembershipId": 1360,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 37,
+      "MembershipId": 1362,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 38,
+      "MembershipId": 1417,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 39,
+      "MembershipId": 1418,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 40,
+      "MembershipId": 1420,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 41,
+      "MembershipId": 1422,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 42,
+      "MembershipId": 1430,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 43,
+      "MembershipId": 1435,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 44,
+      "MembershipId": 1440,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 45,
+      "MembershipId": 1449,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 46,
+      "MembershipId": 1573,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 47,
+      "MembershipId": 1598,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 48,
+      "MembershipId": 1601,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 49,
+      "MembershipId": 1602,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 50,
+      "MembershipId": 1604,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 51,
+      "MembershipId": 1890,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 52,
+      "MembershipId": 1891,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 53,
+      "MembershipId": 1892,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 54,
+      "MembershipId": 1893,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 55,
+      "MembershipId": 2001,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 56,
+      "MembershipId": 2013,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 57,
+      "MembershipId": 2015,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 58,
+      "MembershipId": 2031,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 59,
+      "MembershipId": 2032,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 60,
+      "MembershipId": 2045,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 61,
+      "MembershipId": 2046,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 62,
+      "MembershipId": 2047,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 63,
+      "MembershipId": 2156,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 64,
+      "MembershipId": 2239,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 65,
+      "MembershipId": 2289,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 66,
+      "MembershipId": 2407,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 67,
+      "MembershipId": 2410,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 68,
+      "MembershipId": 2411,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 69,
+      "MembershipId": 2429,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 70,
+      "MembershipId": 2453,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 71,
+      "MembershipId": 2456,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 72,
+      "MembershipId": 2457,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 73,
+      "MembershipId": 2458,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 74,
+      "MembershipId": 2465,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 75,
+      "MembershipId": 2468,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 76,
+      "MembershipId": 2482,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 77,
+      "MembershipId": 2510,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 78,
+      "MembershipId": 2511,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 79,
+      "MembershipId": 2512,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 80,
+      "MembershipId": 2528,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 81,
+      "MembershipId": 2529,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 82,
+      "MembershipId": 2540,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 83,
+      "MembershipId": 2572,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 84,
+      "MembershipId": 2573,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 85,
+      "MembershipId": 2574,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 86,
+      "MembershipId": 2575,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 87,
+      "MembershipId": 2583,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 88,
+      "MembershipId": 2586,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 89,
+      "MembershipId": 2587,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 90,
+      "MembershipId": 2588,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 91,
+      "MembershipId": 2589,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 92,
+      "MembershipId": 2590,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 93,
+      "MembershipId": 2595,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 94,
+      "MembershipId": 2596,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 95,
+      "MembershipId": 2603,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 96,
+      "MembershipId": 2604,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 97,
+      "MembershipId": 2605,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 98,
+      "MembershipId": 2622,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 99,
+      "MembershipId": 2624,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 100,
+      "MembershipId": 2654,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 101,
+      "MembershipId": 2657,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 102,
+      "MembershipId": 2692,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 103,
+      "MembershipId": 2693,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 104,
+      "MembershipId": 2694,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 105,
+      "MembershipId": 2700,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 106,
+      "MembershipId": 2727,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 107,
+      "MembershipId": 2729,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 108,
+      "MembershipId": 2730,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 109,
+      "MembershipId": 2773,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 110,
+      "MembershipId": 2775,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 111,
+      "MembershipId": 2780,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 112,
+      "MembershipId": 2782,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 113,
+      "MembershipId": 2798,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 114,
+      "MembershipId": 2800,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 115,
+      "MembershipId": 2801,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 116,
+      "MembershipId": 2805,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 117,
+      "MembershipId": 2807,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 118,
+      "MembershipId": 2809,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 119,
+      "MembershipId": 2810,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 120,
+      "MembershipId": 2813,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 121,
+      "MembershipId": 2816,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 122,
+      "MembershipId": 2821,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 123,
+      "MembershipId": 2822,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 124,
+      "MembershipId": 2823,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 125,
+      "MembershipId": 2824,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 126,
+      "MembershipId": 2825,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 127,
+      "MembershipId": 2827,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 128,
+      "MembershipId": 2829,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 129,
+      "MembershipId": 2849,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 130,
+      "MembershipId": 2852,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 131,
+      "MembershipId": 2888,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    },
+    {
+      "ElectionMemberId": 132,
+      "MembershipId": 2907,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "VesselName": "test",
+      "HasVoted": false
+    }
+  ],
+  "Candidates": [
+    {
+      "ElectionMemberId": 133,
+      "MembershipId": 466,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 134,
+      "MembershipId": 569,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": true,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 135,
+      "MembershipId": 766,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": true,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 135,
+      "MembershipId": 766,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": true,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 136,
+      "MembershipId": 823,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 137,
+      "MembershipId": 1261,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": true,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 138,
+      "MembershipId": 1440,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": true,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": false,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 139,
+      "MembershipId": 321,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": false,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": true,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 140,
+      "MembershipId": 1604,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": false,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": true,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    },
+    {
+      "ElectionMemberId": 141,
+      "MembershipId": 2031,
+      "Name": "Test",
+      "MobilePhone": "11111111",
+      "Nominated": false,
+      "CurrentEnvoy": false,
+      "CurrentDeputy1": true,
+      "CurrentDeputy2": false,
+      "CurrentDeputyNr": 0,
+      "VesselName": "test"
+    }
+  ]
+}
